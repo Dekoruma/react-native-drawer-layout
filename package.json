@@ -91,7 +91,7 @@
   "license": "MIT",
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native-web": "*"
   },
   "devDependencies": {
     "babel-cli": "^6.0.0",
@@ -100,8 +100,6 @@
     "flow-bin": "^0.42.0",
     "lint-staged": "^3.3.1",
     "pre-commit": "^1.2.2",
-    "prettier": "^0.19.0",
-    "react": "16.0.0-alpha.12",
-    "react-native": "0.48.1"
+    "prettier": "^0.19.0"
   }
 }
